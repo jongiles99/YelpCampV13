@@ -40,22 +40,22 @@ body {
 }
 
 .slideshow li:nth-child(1) {
-    background-image: url(https://app.box.com/representation/file_version_149343817314/image_2048_jpg/1.jpg);
+    background-image: url(http://i.imgur.com/xnjG7s6.jpg);
 }
 .slideshow li:nth-child(2) {
-    background-image: url(https://app.box.com/representation/file_version_149374890605/image_2048_jpg/1.jpg);
+    background-image: url(http://i.imgur.com/AXvbYD3.jpg);
     animation-delay: 10s;
 }
 .slideshow li:nth-child(3) {
-    background-image: url(https://app.box.com/representation/file_version_149374597296/image_2048_jpg/1.jpg);
+    background-image: url(http://i.imgur.com/FeDPWVM.jpg);
     animation-delay: 20s;
 }
 .slideshow li:nth-child(4) {
-    background-image: url(https://app.box.com/representation/file_version_149374634154/image_2048_jpg/1.jpg);
+    background-image: url(http://i.imgur.com/AkjqWES.jpg);
     animation-delay: 30s;
 }
 .slideshow li:nth-child(5) {
-    background-image: url(https://app.box.com/representation/file_version_149081599741/image_2048_jpg/1.jpg);
+    background-image: url(http://i.imgur.com/CdCoYxk.jpg);
     animation-delay: 40s;
 }
 
